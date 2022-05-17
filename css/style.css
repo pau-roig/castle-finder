@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@100&family=Lato:wght@300&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+margin: 0px;
+}
+h1,h2,h3 {
+	font-family: `Lora´, fantasy;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}
